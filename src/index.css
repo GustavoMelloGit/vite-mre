@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Namian;
+  src: url('/fonts/Namian-Regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  display: swap;
+}
+
+@font-face {
+  font-family: Namian2;
+  src: url('./assets/Namian-Regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  display: swap;
+}
